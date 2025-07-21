@@ -1,7 +1,7 @@
 ## Hi there 👋
 Thank's for stopping by 🙂
 
-I am Edoardo Ferretto, MSc graduate in Quantitative Finance currently working at UniCredit Bank in Munich, Germany.
+I am Edoardo Ferretto, MSc graduate in Quantitative Finance.
 
 #### 🔭 Currently working on
 These are the projects I published thus far:
