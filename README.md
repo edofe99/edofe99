@@ -16,8 +16,6 @@ These are the projects I published thus far:
 
 #### 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/edoardo-ferretto/).
-- If you see a bug on my code, feel free to open an issue here on GitHub, or contact me if you prefer. 
-
 <!--
 - ⚡ Fun fact: ...
 -->
