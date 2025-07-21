@@ -15,10 +15,9 @@ These are the projects I published thus far:
 - Working on some personal projects that I'll publish here once I'm satisfied with the end result.
 
 #### 📫 How to reach me:
-- My LinkedIn profile is on the left.
+- My Linkedin profile is on the left.
 - If you see a bug on my code, feel free to open an issue here on GitHub, or contact me if you prefer. 
 
 <!--
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
