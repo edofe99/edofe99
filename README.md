@@ -1,7 +1,7 @@
 ## Hi there 👋
 Thank's for stopping by 🙂
 
-I'm Edoardo Ferretto, MSc graduate in Qunatitative Finance at University of Verona.
+I'm Edoardo Ferretto, MSc graduate in Qunatitative Finance at University of Verona and currently working at UniCredit Bank in Munich (Germany).
 
 #### 🔭 Currently working on
 These are the projects I published thus far:
