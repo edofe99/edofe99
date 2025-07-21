@@ -1,5 +1,5 @@
 ## Hi there 👋
-Thank's for stopping by 😄
+Thank's for stopping by 🙂
 
 I'm Edoardo Ferretto, MSc graduate in Qunatitative Finance at University of Verona. Here you can have a quick overview on the projects I published thus far.
 
