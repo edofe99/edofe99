@@ -11,7 +11,7 @@ I am Edoardo Ferretto, MSc graduate in Quantitative Finance.
 - [Finance Tracker built with Streamlit](https://github.com/edofe99/streamlit-finance-tracker): my first experiment on creating user interfaces using Streamlit. You can try it directly on your browser.
 
 #### 🌱 Currently learning
-- After reaching a satisfiying level with Python, I'm now learning C++.
+- C++.
 - Working on some personal projects that I'll publish here once I'm satisfied with the end result.
 
 #### 📫 How to reach me
