@@ -4,7 +4,7 @@ Thank's for stopping by 🙂
 I am Edoardo Ferretto, MSc graduate in Quantitative Finance.
 
 #### 🔭 Published projects
-
+- [End-of-Day Reversal](https://github.com/edofe99/end-of-day-reversal): implementation of the stylized fact proposed in the eponymous paper by _Guido Baltussen_, _Zhi Da_, and _Amar Soebhag_. The analysis is conducted through a backtest that mitigates look-ahead bias by using historical S&P 500 constituents and includes out-of-sample validation.
 - [Quant Energy Pricing](https://github.com/edofe99/Quant-Energy-Pricing): a quantitative pricing tool, written in Python, that allows to price energetic full-load contracts. The whole approach is documented on my MSc thesis (about to be published in Sept 2025). 
 - [Implied Volatility Dashboard](https://github.com/edofe99/implied-volatility-dashboard): an interactive dashboard to visualise the Implied Volatility surface of a given financial instrument.
 - [Forex economic calendar webscraper](https://github.com/edofe99/forex-economic-calendar-webscraper): used Selenium to scrap economic data for forex pairs.
